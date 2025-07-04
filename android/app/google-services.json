@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689636080228",
+    "project_id": "e-books-b23d4",
+    "storage_bucket": "e-books-b23d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689636080228:android:fca08cb6208454cdc87d71",
+        "android_client_info": {
+          "package_name": "com.jeel.pipaliya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689636080228-08852pgjhos0fd13jf9ktvdj2207n2a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeel.pipaliya",
+            "certificate_hash": "c3356303ce3a4438d18fe883f16de4ad70bf3356"
+          }
+        },
+        {
+          "client_id": "689636080228-rv59lljp56hbukchm8jev3vdgm5vhhon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPVLxprskGDNC26Fb0MjFGKRLlWAza7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689636080228-gpd5efkl6fb6gvv4b9dgrgiosd9lj2ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
